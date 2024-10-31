@@ -1,0 +1,67 @@
+{
+  "editor.lineHeight": 24,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "explorer.compactFolders": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.rulers": [
+    80
+  ],
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "security.workspace.trust.untrustedFiles": "open",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.inlineSuggest.enabled": true,
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "files.associations": {
+    ".htaccess": "ruby"
+  },
+  "explorer.confirmDragAndDrop": false,
+  "C_Cpp.default.compilerPath": "C:/msys64/mingw64/bin/gcc",
+  "C_Cpp.default.intelliSenseMode": "windows-gcc-x64",
+  "C_Cpp.formatting": "vcFormat",
+  "C_Cpp.vcFormat.newLine.beforeCatch": false,
+  "C_Cpp.vcFormat.newLine.beforeElse": false,
+  "C_Cpp.vcFormat.newLine.beforeOpenBrace.block": "sameLine",
+  "C_Cpp.vcFormat.indent.caseLabels": true,
+  "C_Cpp.vcFormat.newLine.beforeOpenBrace.function": "sameLine",
+  "C_Cpp.vcFormat.newLine.beforeOpenBrace.type": "sameLine",
+  "C_Cpp.vcFormat.newLine.beforeOpenBrace.namespace": "sameLine",
+  "C_Cpp.vcFormat.newLine.beforeOpenBrace.lambda": "sameLine",
+  "C_Cpp.vcFormat.indent.preserveComments": true,
+  "C_Cpp.vcFormat.space.beforeInitializerListOpenBrace": true,
+  "git.enableSmartCommit": true,
+  "explorer.confirmDelete": false,
+  "[python]": {
+    "editor.formatOnType": true,
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [
+      80
+    ],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off"
+  },
+  "dart.debugExternalPackageLibraries": false,
+  "dart.debugSdkLibraries": false,
+  "git.openRepositoryInParentFolders": "never",
+  "cmake.configureOnOpen": false,
+  "dart.showInspectorNotificationsForWidgetErrors": false,
+  "dart.warnWhenEditingFilesOutsideWorkspace": false,
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "C_Cpp.vcFormat.space.beforeEmptySquareBrackets": true,
+  "window.zoomLevel": -1,
+  "cmake.showOptionsMovedNotification": false,
+  "autopep8.args": [
+    "--indent-size=2"
+  ],
+  "terminal.integrated.fontFamily": "monospace",
+  "intelephense.format.braces": "k&r"
+}
